@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1624759906 source:d:\mysql-program\automata_t\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mysql.h>
+	"NFA.h"
+	"DFA.h"
+	"Table.h"
+
+1624193222 d:\mysql-program\automata_t\nfa.h
+	<iostream>
+
+1623761535 d:\mysql-program\automata_t\dfa.h
+	<iostream>
+
+1624113263 d:\mysql-program\automata_t\table.h
+	<iostream>
+

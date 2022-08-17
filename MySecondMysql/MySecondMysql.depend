@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1622100957 source:d:\mysql-program\mysecondmysql\main.cpp
+	<iostream>
+	<Windows.h>
+	<mysql.h>
+	<iomanip>
+	<stdlib.h>
+	<sstream>
+	<stdio.h>
+

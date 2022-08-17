@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622272610 source:d:\mysql-program\mysql\main.cpp
+	<iostream>
+	<mysql.h>
+

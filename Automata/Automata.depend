@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1623339434 source:d:\mysql-program\automata\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+	<string.h>
+	<mysql.h>
+	<stdio.h>
+	<stdlib.h>
+

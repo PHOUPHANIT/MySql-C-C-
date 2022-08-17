@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622363020 source:d:\mysql-program\baseconversion\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+	<mysql.h>
+	<stdio.h>
+
